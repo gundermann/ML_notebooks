@@ -1,0 +1,7 @@
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+ISLP
+ipykernel
